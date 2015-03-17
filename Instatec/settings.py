@@ -1,4 +1,5 @@
-"""
+""" 
+DjangoLivre
 Django settings for Instatec project.
 
 For more information on this file, see
